@@ -39,7 +39,8 @@ Command Line Arguments
 Example: ./main input.json output-%02d-%05d.obj
 
 	"input.json" is the file that we need to input
-	"output-%02d-%05d.obj" is the format that we output the files. For this project, you'll have 30 output files.
+	"output-%02d-%05d.obj" is the format that we output the files. For this project, you'll have 30 
+	output files.
 
 
 
